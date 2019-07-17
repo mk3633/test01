@@ -83,7 +83,7 @@ if(content!=null){
     </section>
     <section id ="bo_v_can"">
     	
-		<form action="fdeletePro.jsp?pageNum=<%=pageNum %>" method="post" name="fr">
+		<form action="deletePro.jsp?pageNum=<%=pageNum %>" method="post" name="fr">
 		<input type="hidden" name="num" value="<%=num %>">
 		<ul>
 		<li>비밀번호 : 
