@@ -76,7 +76,7 @@
       <span class="thumb">
         <img src="../images/icon1.jpg" alt="" />
       </span>
-      <p class="name">강아지 연구소</p>
+      <p class="name">강아지 연구소 멍멍왈왈</p>
       <p class="sect_tit">다양한 반려견의 이야기를 알아보세요.</p>
       <a class="btn_more" href="#" onclick="return false;">
         <span>준비중</span>
